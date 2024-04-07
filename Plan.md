@@ -44,9 +44,11 @@
 
 예상되는 결과물(프로토타입)
 
+1.웃음감지
+
 ![웃음감지](https://github.com/YeoungJun0508/GD_project/assets/145903037/bf83440a-e965-450d-89c4-483c4463a820)
 
-[![닮은 연예인 찾기](https://github.com/YeoungJun0508/GD_project/assets/145903037/bf83440a-e965-450d-89c4-483c4463a820)](https://github.com/YeoungJun0508/similar-project/blob/main/240407.md#efficientnet)
+2.[닮은 연예인 찾기.](https://github.com/YeoungJun0508/similar-project/blob/main/240407.md)
 
 
 
