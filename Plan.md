@@ -11,6 +11,7 @@
 
 2.smile로 분류되면 웃음의 정도를 1~7단계로 나눠서 3단계 이상의 웃음이 나올때 까지 좀 더 웃으라는 글자를 띄움
 
+
 ### 응용 기술
 
 1.각도로 사진인지 사람인지 구별하기 위해서 [FSA_NET](https://colab.research.google.com/drive/1v3RRMOoq5fvRpeZLsgw65nyzM-OQD3gN#scrollTo=oDS-uwHkwvSA) 사용.
